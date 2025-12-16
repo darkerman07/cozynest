@@ -3,6 +3,8 @@
 A **modern and fully responsive eCommerce landing page** built using **Tailwind CSS** and **vanilla JavaScript**.  
 This project demonstrates clean UI design, responsive layouts, interactive components, and deployment on **Hostinger**.
 
+![Preview](https://ik.imagekit.io/codewithsadee/cozynest/Thumbnail-github.png)
+
 ## 📌 Features
 
 - 🌐 Fully responsive design (mobile, tablet, desktop)
