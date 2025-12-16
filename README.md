@@ -1,46 +1,33 @@
-# 🛍️ eCommerce Landing Page
+# 🛍️ Cozynest - eCommerce Landing Page
 
-A **modern and fully responsive eCommerce landing page** built using **Tailwind CSS** and **vanilla JavaScript**. This project demonstrates clean UI design, responsive layout techniques, interactive components, and ends with deployment on **Hostinger**.
-
-![Preview](https://ik.imagekit.io/codewithsadee/cozynest/Thumbnail-github.png?updatedAt=1750768815569)
-
-## 🚀 Live Demo
-
-🔗 [View Deployed Site](https://cozynest.codewithsadee.com)
+A **modern and fully responsive eCommerce landing page** built using **Tailwind CSS** and **vanilla JavaScript**.  
+This project demonstrates clean UI design, responsive layouts, interactive components, and deployment on **Hostinger**.
 
 ## 📌 Features
 
-- 🌐 Responsive design (mobile, tablet, desktop)
+- 🌐 Fully responsive design (mobile, tablet, desktop)
 - 🎨 Built entirely with Tailwind CSS utility classes
 - ⚡ Smooth hover effects and transitions
-- 🧭 Interactive mobile menu with vanilla JavaScript
-- 🛒 Clean, minimal product showcase section
-- 🔥 Advance grid layout
+- 🧭 Interactive mobile menu using vanilla JavaScript
+- 🛒 Minimal and clean product showcase section
+- 🔥 Advanced grid layouts
 - 🚀 Custom slider with auto-slide functionality using vanilla JavaScript
 - ☁️ Deployed on Hostinger
+
+---
 
 ## 🛠️ Tech Stack
 
 - **HTML5**
 - **Tailwind CSS**
 - **JavaScript**
-- **Hostinger** (for deployment)
+
+---
 
 ## 🧰 Getting Started
 
-1. **Clone the repo:**
+1. **Clone the repository:**
 
 ```bash
-git clone git@github.com:codewithsadee/cozynest.git
+git clone https://github.com/darkerman07/cozynest.git
 cd cozynest
-```
-
-2. **Open** `index.html` in your browser
-   No build tools needed – just open and go!
-
-## 📺 Watch the complete tutorial
-
-🔗 [YouTube](https://https://youtu.be/Gjjlw3TfLXg)
-
-THANK YOU ❤
-# cozynest
